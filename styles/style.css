@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+    background-color: #322e25;
+}
+
+main {
+    max-width: 500px;
+    margin: auto;
+    color: #AEB665;
+}
+
+h1,
+h2 {
+    font-family: "Indie Flower";
+
+    color: #DCA581;
+}
+
+h1 {
+    font-size: 40px;
+    text-align: center;
+}
+
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: grey;
+}
+
+/* mouse over link */
+a:hover {
+    color: #DCA581;
+}
+
+/* selected link */
+a:active {
+    color: #DCA581;
+}
